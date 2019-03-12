@@ -1,0 +1,56 @@
+[
+    {
+        "car_id": 1,
+        "name": "ABX",
+        "brand": "Tokiota",
+        "year_release": "1999"
+    },
+    {
+        "car_id": 2,
+        "name": "AZE",
+        "brand": "Tokiota",
+        "year_release": "1995"
+    },
+    {
+        "car_id": 57,
+        "name": "Maverick",
+        "brand": "Foo",
+        "year_release": "1965"
+    },
+    {
+        "car_id": 5,
+        "name": "AZE",
+        "brand": "Tokiota",
+        "year_release": "19952"
+    },
+    {
+        "car_id": 6,
+        "name": "AZE",
+        "brand": "Tokiota",
+        "year_release": "199522"
+    },
+    {
+        "car_id": 7,
+        "name": "AZE",
+        "brand": "Tokiota",
+        "year_release": "199522123"
+    },
+    {
+        "car_id": 8,
+        "name": "Maverick",
+        "brand": "Foo",
+        "year_release": "1967"
+    },
+    {
+        "car_id": 9,
+        "name": "AZE",
+        "brand": "Tokiota",
+        "year_release": "1996"
+    },
+    {
+        "car_id": 10,
+        "name": "AZE",
+        "brand": "Tokiota",
+        "year_release": "1997"
+    }
+]
