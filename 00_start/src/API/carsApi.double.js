@@ -22,6 +22,7 @@ export const getAllCars = () => {
     });
 }
 
+
 export const getCarById = (id) => {
     return new Promise((resolve, _) => {
         setTimeout(() => {

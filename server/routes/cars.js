@@ -7,10 +7,10 @@ const express = require('express'),
 const getNextAvailableId = (allCars) => {
     let maxId;
     allCars.reduce((prev, current) => {
-        if (current.car_id > prev.car_id) {
-            maxId = current.car_id;
-        }
-        return maxId;
+         if (current.car_id > prev.car_id) {
+             maxId = current.car_id;
+         }
+        return ++maxId;
     });
     return ++maxId;
 }
